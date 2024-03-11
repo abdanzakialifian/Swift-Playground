@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Integer'/>
+        <page name='Comment'/>
+        <page name='Semicolon'/>
+        <page name='Variable'/>
+        <page name='NumericLiterals'/>
+        <page name='TypeAliases'/>
+        <page name='Floating'/>
+        <page name='Boolean'/>
+        <page name='Tuple'/>
+        <page name='Optional'/>
+        <page name='ArithmeticOperator'/>
+        <page name='ComparisonOperator'/>
+        <page name='LogicOperator'/>
+        <page name='RangeOperator'/>
+        <page name='TernaryOperator'/>
+        <page name='NilCoalescingOperator'/>
+        <page name='StringsLiteral'/>
+        <page name='StringFunction'/>
+        <page name='Array'/>
+        <page name='Set'/>
+        <page name='Dictionary'/>
+        <page name='ForIn'/>
+        <page name='While'/>
+        <page name='RepeatWhile'/>
+    </pages>
+</playground>
