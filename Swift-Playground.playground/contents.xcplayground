@@ -26,5 +26,6 @@
         <page name='While'/>
         <page name='RepeatWhile'/>
         <page name='ConditionalStatement'/>
+        <page name='ControlTransfer'/>
     </pages>
 </playground>
