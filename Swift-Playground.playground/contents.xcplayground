@@ -25,5 +25,6 @@
         <page name='ForIn'/>
         <page name='While'/>
         <page name='RepeatWhile'/>
+        <page name='ConditionalStatement'/>
     </pages>
 </playground>
