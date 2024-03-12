@@ -27,5 +27,6 @@
         <page name='RepeatWhile'/>
         <page name='ConditionalStatement'/>
         <page name='ControlTransfer'/>
+        <page name='Guard'/>
     </pages>
 </playground>
