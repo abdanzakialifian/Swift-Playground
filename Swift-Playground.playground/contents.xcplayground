@@ -28,5 +28,6 @@
         <page name='ConditionalStatement'/>
         <page name='ControlTransfer'/>
         <page name='Guard'/>
+        <page name='Function'/>
     </pages>
 </playground>
