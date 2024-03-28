@@ -29,5 +29,7 @@
         <page name='ControlTransfer'/>
         <page name='Guard'/>
         <page name='Function'/>
+        <page name='Closure'/>
+        <page name='Enumeration'/>
     </pages>
 </playground>
